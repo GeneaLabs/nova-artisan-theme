@@ -13,22 +13,29 @@ Let's get started!
 🎈 To give users an idea of what your theme looks like, it's a great idea to show big, beautiful screenshots of your theme in action:
 -->
 
-**Artisan** provides a fun, bright palette:
+**Artisan** provides a subdued light palette that is easy on the eyes, yet has
+sufficient contrast for long development stints.
 
-![](https://nova.app/images/en/dark/editor.png)
+![](https://user-images.githubusercontent.com/1791050/117552188-c36a2700-affe-11eb-9da5-858c8b7dfbe5.png)
+
+<!-- ![](https://nova.app/images/en/dark/editor.png) -->
 
 <!--
 🎈 If your extension provides multiple variations, don't forget to show those too!
 -->
 
-Artisan also offers a lighter alternative:
+<!-- Artisan also offers a lighter alternative: -->
 
-![](https://nova.app/images/en/light/editor.png)
+<!-- ![](https://nova.app/images/en/light/editor.png) -->
 
-## Acknowledgements
+<!-- ## Acknowledgements -->
 
 <!--
 🎈 If your theme is based on existing work by someone else, consider crediting the original author
 -->
 
-Artisan is based on _Original Artisan_ by [Lauren Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum).
+<!-- Artisan is based on _Original Artisan_ by [Lauren Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum). -->
+
+### Notes
+- this is still very much a work in progress.
+- a dark version will be made available soon as well.
